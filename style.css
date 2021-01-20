@@ -1,0 +1,17 @@
+H1 {
+    padding: 20px;
+}
+.title {
+    font-family: 'Special Elite', cursive;
+    font-size: 60px;
+}
+.questions-trivia {
+    max-width: 40%;
+    margin: auto;
+}
+.no-data {
+    margin-top: 40px;
+}
+.btn {
+    margin: 20px 0;
+}
